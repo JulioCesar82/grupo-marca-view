@@ -1,0 +1,17 @@
+<link href="https://fonts.googleapis.com/css?family=Patua+One" rel="stylesheet">
+<style>
+@import url('https://fonts.googleapis.com/css?family=Patua+One');
+</style>
+font-family: 'Patua One', cursive;
+
+<link href="https://fonts.googleapis.com/css?family=Russo+One" rel="stylesheet">
+<style>
+@import url('https://fonts.googleapis.com/css?family=Russo+One');
+</style>
+font-family: 'Russo One', sans-serif;
+
+<link href="https://fonts.googleapis.com/css?family=Kanit" rel="stylesheet">
+<style>
+@import url('https://fonts.googleapis.com/css?family=Kanit');
+</style>
+font-family: 'Kanit', sans-serif;

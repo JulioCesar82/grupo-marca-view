@@ -1,0 +1,17 @@
+<link href="https://fonts.googleapis.com/css?family=Signika" rel="stylesheet">
+<style>
+@import url('https://fonts.googleapis.com/css?family=Signika');
+</style>
+font-family: 'Signika', sans-serif;
+
+<link href="https://fonts.googleapis.com/css?family=Questrial" rel="stylesheet">
+<style>
+@import url('https://fonts.googleapis.com/css?family=Questrial');
+</style>
+font-family: 'Questrial', sans-serif;
+
+<link href="https://fonts.googleapis.com/css?family=Libre+Franklin" rel="stylesheet">
+<style>
+@import url('https://fonts.googleapis.com/css?family=Libre+Franklin');
+</style>
+font-family: 'Libre Franklin', sans-serif;
