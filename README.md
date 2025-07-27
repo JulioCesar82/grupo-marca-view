@@ -66,6 +66,11 @@ A aplicação estará disponível em `http://localhost:80`.
     *   `index.html`: O arquivo HTML principal.
     *   `assets/`: Contém todos os ativos como CSS, JavaScript, imagens e bibliotecas.
 
+## Membros atuais da equipe do projeto
+
+* [JulioCesar82](https://github.com/JulioCesar82) -
+**Julio Ávila** <https://www.linkedin.com/in/juliocesar82>
+
 ## Como Contribuir
 
 1.  Faça um fork do repositório.
